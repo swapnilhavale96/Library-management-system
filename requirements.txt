@@ -1,0 +1,21 @@
+--------------------
+Project Requirements
+--------------------
+Python 3.7
+MySQL 2.x
+PyQT5
+QTDesigner(GUI Designing Tool Recommended)
+--------------------
+Project Dependencies
+--------------------
+PyQt5.QtCore	
+PyQt5.QtGui		
+PyQt5.QtWidgets 
+sys
+mysql.connector
+PyQt5.uic		
+datetime
+xlrd import		
+xlsxwriter		
+
+
